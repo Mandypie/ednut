@@ -1,0 +1,43 @@
+{
+    "name": "Raiden",
+    "version": "1.0",
+    "description": "Powerful bug bot created by crypto Lord",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "whiskeysockets",
+        "multi-device"
+    ],
+    "author": "Crypto Lord",
+    "license": "MIT",
+    "dependencies": {
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@hapi/boom": "^10.0.0",
+        "@whiskeysockets/baileys": "^6.7.16",
+        "chalk": "^4.1.2",
+        "fs-extra": "^10.0.0",
+        "pino": "^8.21.0",
+        "readline": "^1.3.0",
+        "ms": "^2.1.3",
+        "axios": "^1.6.0",
+        "node-cache": "^5.1.2",
+        "jimp": "^0.22.12",
+        "sharp": "^0.32.6",
+        "fluent-ffmpeg": "^2.1.2",
+        "node-fetch": "^2.7.0",
+        "got": "^11.8.6",
+        "cheerio": "^1.0.0-rc.12",
+        "moment": "^2.29.4",
+        "mime-types": "^2.1.35",
+        "file-type": "^16.5.4",
+        "qrcode": "^1.5.3",
+        "link-preview-js": "^3.0.5",
+        "p-limit": "^3.1.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
